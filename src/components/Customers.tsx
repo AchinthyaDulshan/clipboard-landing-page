@@ -1,11 +1,7 @@
-import React from "react";
 import { CustomersContent } from "./const";
 import { motion } from "motion/react";
-import { tr } from "motion/react-client";
 
-type Props = {};
-
-const Customers = (props: Props) => {
+const Customers = () => {
   return (
     <section
       id="customers"

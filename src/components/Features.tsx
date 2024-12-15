@@ -1,10 +1,7 @@
-import React from "react";
 import { animateVariants, FeaturesContent } from "./const";
 import { motion } from "motion/react";
 
-type Props = {};
-
-const Features = (props: Props) => {
+const Features = () => {
   return (
     <section className="mx-auto max-w-screen-2xl my-10 px-7 overflow-hidden">
       <motion.h2

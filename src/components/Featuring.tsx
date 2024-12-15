@@ -1,10 +1,7 @@
-import React from "react";
 import { animateVariants, FeaturingProductContent } from "./const";
 import { motion } from "motion/react";
 
-type Props = {};
-
-const Featuring = (props: Props) => {
+const Featuring = () => {
   return (
     <section className="px-7 mx-auto my-10 py-5 overflow-hidden">
       <motion.h2

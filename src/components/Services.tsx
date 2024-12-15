@@ -1,10 +1,7 @@
-import React from "react";
 import { animateVariants, ServicesContent } from "./const";
 import { motion } from "motion/react";
 
-type Props = {};
-
-const Services = (props: Props) => {
+const Services = () => {
   return (
     <section
       id="services"

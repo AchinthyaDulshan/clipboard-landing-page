@@ -1,10 +1,7 @@
-import React from "react";
 import { animateVariants, BottomDownloadContent } from "./const";
 import { motion } from "motion/react";
 
-type Props = {};
-
-const Download = (props: Props) => {
+const Download = () => {
   return (
     <section id="download" className="my-5 px-7 py-16 max-w-screen-2xl mx-auto overflow-hidden">
       <motion.h2

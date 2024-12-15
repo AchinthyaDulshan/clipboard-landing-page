@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [GitHub Pages]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/clipboard-landing-page-solution-with-tailwind-css-and-react-1zbw54qxaC)
+- Live Site URL: [GitHub Pages](https://achinthyadulshan.github.io/clipboard-landing-page/)
 
 ## My process
 

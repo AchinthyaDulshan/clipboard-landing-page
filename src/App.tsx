@@ -1,5 +1,3 @@
-import React from 'react'
-
 import Hero from "./components/Hero"
 import Services from './components/Services'
 import Featuring from './components/Featuring'
@@ -8,9 +6,7 @@ import Customers from './components/Customers'
 import Download from './components/Download'
 import Footer from './components/Footer'
 
-type Props = {}
-
-const App = (props: Props) => {
+const App = () => {
   return (
     <div>
       <Hero/>

@@ -1,10 +1,7 @@
-import React from "react";
 import { animateVariants, FooterContent } from "./const";
 import { motion } from "motion/react";
 
-type Props = {};
-
-const Footer = (props: Props) => {
+const Footer = () => {
   return (
     <section className="max-w-screen-2xl mx-auto mt-10 px-7 py-7 bg-Grayish-Blue/15 overflow-hidden">
       <div className="grid lg:grid-cols-3 gap-10 place-content-center place-items-center">
