@@ -19,8 +19,8 @@ export default {
         current: 'currentColor'
       },
       backgroundImage:{
-        "bg-desktop":"url('src/assets/images/backgrounds/bg-header-desktop.png')",
-        "bg-mobile":"url('src/assets/images/backgrounds/bg-header-mobile.png')"
+        "bg-desktop":"url('./assets/images/backgrounds/bg-header-desktop.png')",
+        "bg-mobile":"url('./assets/images/backgrounds/bg-header-mobile.png')"
       }
     },
   },

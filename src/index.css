@@ -40,7 +40,7 @@
   @apply text-Grayish-Blue max-w-2xl md:w-3/4 text-sm text-center mx-auto
 }
 
-#hero{
+/* #hero{
   background-image: url('./assets/images/backgrounds/bg-header-mobile.png');
 }
 
@@ -48,4 +48,4 @@
   #hero{
     background-image: url('./assets/images/backgrounds/bg-header-desktop.png');
   }
-}
+} */

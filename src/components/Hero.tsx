@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <section
       id="hero"
-      className="h-dvh w-screen max-w-screen-2xl flex justify-center items-center flex-col bg-cover bg-no-repeat bg-center px-7 mx-auto overflow-hidden"
+      className="h-dvh w-screen max-w-screen-2xl flex justify-center items-center flex-col md:bg-bg-desktop bg-bg-mobile  bg-cover bg-no-repeat bg-center px-7 mx-auto overflow-hidden"
     >
       <motion.img
         variants={animateVariants.zoomIn}
